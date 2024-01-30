@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-
-
-
-##.*
 import sys
 import random
 
@@ -24,4 +20,3 @@ while not_finished:
     else:
         lower = guess
         print("Your guess was too low.".format(guess))
-    ##.*
